@@ -1,0 +1,13 @@
+{
+  "name": "react-for-designers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mike Burns <mike.burns@upstatement.com>",
+  "license": "MIT",
+  "scripts":{
+    "start": "buffet"
+  },
+  "devDependencies": {
+    "buffet": "^1.0.10"
+  }
+}
