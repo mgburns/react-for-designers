@@ -3,12 +3,18 @@ http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquer
 
 ## Setup
 
-1. `git clone https://github.com/mgburns/react-for-designers`
-
-2. Run the `jQuery` implementation:
+1. Clone this repository: `git clone https://github.com/mgburns/react-for-designers`
+2. Install Node dependencies: `npm install`
+3. Run the `jQuery` implementation:
 
   ```
   git checkout jquery
-  yarn install
-  yarn start
+  npm start
+  ```
+
+4. Run the `React` implementation:
+
+  ```
+  git checkout react
+  npm start
   ```
